@@ -1,0 +1,2 @@
+@echo off
+javac -cp . src/main/java/config/*.java src/main/java/model/*.java src/main/java/network/*.java src/main/java/ui/theme/DarkTheme.java src/main/java/ui/pages/*.java src/main/java/ui/MainFrame.java src/main/java/Main.java 
